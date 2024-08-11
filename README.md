@@ -1,5 +1,8 @@
+<header style="display: inline_block" align="center">
+      Hello i'm Raul Rodrigues!
+</header>
+
 <div style="display: inline_block" align="center">
-      ## Hello i'm Raul Rodrigues!
       20y
       He/him
       Ungraduate in information systems
