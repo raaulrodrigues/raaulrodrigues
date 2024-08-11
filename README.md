@@ -11,12 +11,16 @@
              - 20y<br>
       <br>
       <br>
+      <br>
+      <br>
       langs:<br>
-          > java, python, c, csharp, mysql.
+          > java, python, c, csharp, html/css.
       <br>
       <br>
-      os:<br>
-        > arch (main), win11 with 3 vms: remnux + win11 + android emulator.
+      <br>
+      <br>
+      learning<br>
+        > mysql.
       <br>
       <br>
     </samp>
