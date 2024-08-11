@@ -9,9 +9,11 @@
       𝗛𝗲𝗹𝗹𝗼, 𝗶'𝗺 𝗥𝗮𝘂𝗹 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘀
       <br>
       <br>
+      <br>
+      <br>
       about me:<br>
              - he/him, brazilian, pt-br + eng<br>
-             - information system student<br>
+             - information system student 3/4<br>
              - 20y<br>
       <br>
       <br>
