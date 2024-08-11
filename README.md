@@ -31,7 +31,7 @@
       <br>
       <br>
       <br>
-        contacts<br align="center">
+       <p align="center"> contacts</p><br>
        <div style="display: inline_block" align="center"> 
               <a href="https://instagram.com/raaulrodriguees" align="center" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
               <a href="https://discord.gg/TzqTYWKK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
