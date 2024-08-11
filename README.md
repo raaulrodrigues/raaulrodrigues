@@ -1,6 +1,6 @@
-<header style="display: inline_block" align="center">
+<div style="display: inline_block" align="center">
       Hello i'm Raul Rodrigues!
-</header>
+</div>
 
 <div style="display: inline_block" align="center">
       20y
