@@ -1,5 +1,5 @@
 <div style="display: inline_block" align="center">
-      Hello i'm Raul Rodrigues!
+      Hello, i'm Raul Rodrigues!
 </div>
 
 <div style="display: inline_block" align="center">
