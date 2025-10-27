@@ -3,7 +3,7 @@
     <tr>
       <td valign="top" width="400">
         <img src="https://raw.githubusercontent.com/raaulrodrigues/raaulrodrigues/main/guts.jpg" width="400">
-      </td>   
+      </td>
       <td valign="top" style="padding-left: 20px;">
         <samp>
           <br><br><br><br>
