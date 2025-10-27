@@ -17,22 +17,20 @@
              - 21y<br>
       <br>
       <br>
-      <br>
-      <br>
       langs:<br>
           > java, python, c, csharp, html/css.
       <br>
-      <br>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaulrodrigues&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" />
       <br>
       <br>
       learning<br>
         > mysql.
       <br>
-  _   <br>
+      <br>
       <br>
       <br>
       contacts<br>
-       <div style="display: inline_block"> 
+              <div style="display: inline-block;"> 
               <a href="https://www.instagram.com/chiroochirooo/" align="center" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
               <a href="https://discord.gg/P64D4dqh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
               <a href = "mailto:rm.rodrigues0307@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
