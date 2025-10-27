@@ -1,10 +1,11 @@
 <div align="left">
-  <table>
+  <table style="width: 100%; border-collapse: collapse;">
     <tr>
-      <td valign="top" width="400">
-        <img src="https://raw.githubusercontent.com/raaulrodrigues/raaulrodrigues/main/guts.jpg" width="400">
+      <td style="width: 40%; vertical-align: top; padding: 0;">
+        <img src="https://raw.githubusercontent.com/raaulrodrigues/raaulrodrigues/main/guts.jpg"
+             style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
       </td>
-      <td valign="top" style="padding-left: 20px;">
+      <td style="vertical-align: top; padding-left: 20px;">
         <samp>
           <br><br><br><br>
           𝗛𝗲𝗹𝗹𝗼, 𝗶'𝗺 𝗥𝗮𝘂𝗹 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘀
@@ -26,10 +27,10 @@
           <br><br><br><br>
           contacts<br>
           <div> 
-             <a href="https://www.instagram.com/chiroochirooo/" align="center" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-             <a href="https://discord.gg/P64D4dqh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-             <a href = "mailto:rm.rodrigues0307@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-             <a href="https://www.linkedin.com/in/raaul-rodriguees/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+             <a href="https://www.instagram.com/chiroochirooo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+             <a href="https://discord.gg/P64D4dqh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+             <a href="mailto:rm.rodrigues0307@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+             <a href="https://www.linkedin.com/in/raaul-rodriguees/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
           </div>
         </samp>
       </td>
