@@ -13,7 +13,7 @@
       <br>
       about me:<br>
              - he/him, brazilian, pt-br + eng<br>
-             - information system student 3/4<br>
+             - information system student 4/4<br>
              - 21y<br>
       <br>
       <br>
