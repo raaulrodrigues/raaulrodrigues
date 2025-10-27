@@ -1,9 +1,9 @@
-<table>
+<table align="left">
   <tr>
     <td valign="top" width="400">
       <img src="https://raw.githubusercontent.com/raaulrodrigues/raaulrodrigues/main/guts.jpg" width="400">
     </td>
-    <td valign="top">
+    <td valign="top" style="padding-left: 20px;">
       <samp>
         <br><br><br><br>
         𝗛𝗲𝗹𝗹𝗼, 𝗶'𝗺 𝗥𝗮𝘂𝗹 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘀
